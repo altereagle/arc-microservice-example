@@ -2,4 +2,6 @@
 An example microservice for Arc
 
 ### Install
-`npm install arc-microservice-example`
+```
+npm install arc.microservice-basic-example
+```
