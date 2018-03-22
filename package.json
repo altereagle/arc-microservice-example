@@ -1,5 +1,5 @@
 {
-  "name": "arc-microservice-example",
+  "name": "arc.microservice-basic-example",
   "version": "1.0.0",
   "description": "An example microservice for Arc",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/altereagle/arc-microservice-example.git"
+    "url": "git+https://github.com/altereagle/arc.microservice-basic-example.git"
   },
   "keywords": [
     "Arc",
@@ -18,7 +18,7 @@
   "author": "Kendell Joseph",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/altereagle/arc-microservice-example/issues"
+    "url": "https://github.com/altereagle/arc.microservice-basic-example/issues"
   },
-  "homepage": "https://github.com/altereagle/arc-microservice-example#readme"
+  "homepage": "https://github.com/altereagle/arc.microservice-basic-example#readme"
 }
