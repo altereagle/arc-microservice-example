@@ -1,4 +1,4 @@
-# arc-microservice-example
+# Arc Basic Microservice Example
 An example microservice for Arc
 
 ### Install
